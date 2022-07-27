@@ -283,7 +283,7 @@ $
 
 ## Authors :black_nib:
 
-* **Imoudu Micheal** **||** [Github](https://github.com/Imoudumicheal **|** [Number](+2347015162436) **|** [email](imouduevelyn@gmail.com)  
+* **Imoudu Micheal** **||** [Github](https://github.com/Imoudumicheal) **|** [Number](+2347015162436) **|** [email](imouduevelyn@gmail.com)  
 * **Timmy Adeyemi** **||** [Github](https://github.com/Timmypr) **|** [Number](+2348148924369) **|** [email](timmydihno@gmail.com)
 
 ## Acknowledgements :pray:
